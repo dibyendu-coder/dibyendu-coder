@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a second   year computer science student who is pursuing B.Tech at JIS COLLEGE OF ENGINEERING.<br>I am very much passionate about coding.<br>I love developing websites for my clients.
+I am  a  computer science student.<br>I am very much passionate about coding.<br>I love developing websites for my clients.
 
 
 ## 🌐 Socials:
