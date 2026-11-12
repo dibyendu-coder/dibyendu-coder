@@ -15,13 +15,7 @@ I am  a  computer science student.<br>I am very much passionate about coding.<br
   />
 </p>
 
-## 🏆 GitHub Trophies
 
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
