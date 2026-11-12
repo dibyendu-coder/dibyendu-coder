@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am  a  computer science student.<br>I am very much passionate about coding.<br>I love developing websites for my clients.
+### Hey, I'm Dibyendu 👋
+
+I'm a computer science undergrad who enjoys building things for the web and figuring out how stuff works under the hood.
+
+Lately, I've been spending most of my time experimenting with AI, building developer tools, and turning random ideas into working projects.
+
+I also build websites for clients. When I'm not working on something, I'm probably thinking about what to build next.
 
 
 ## 🌐 Socials:
@@ -7,6 +13,10 @@ I am  a  computer science student.<br>I am very much passionate about coding.<br
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+# Featured Projects:
+1. VibeGuard : https://github.com/dibyendu-coder/VibeGuard
+2. BhashaBridge : https://github.com/dibyendu-coder/BhashaBridge
 # 📊 GitHub Stats:
 <p align="center">
   <img
