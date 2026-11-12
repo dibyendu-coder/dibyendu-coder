@@ -16,10 +16,12 @@ I am  a  computer science student.<br>I am very much passionate about coding.<br
 </p>
 
 ## 🏆 GitHub Trophies
-<div align="center">
 
-![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=dibyendu-coder&theme=onedark&no-frame=true&column=6)
+<h2>🏆 GitHub Trophies</h2>
 
-</div>
+<p align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
